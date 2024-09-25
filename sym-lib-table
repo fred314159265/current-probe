@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Current_Probe_CC6920B")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Schematic/Current_Probe_CC6920B.kicad_sym")(options "")(descr ""))
+)

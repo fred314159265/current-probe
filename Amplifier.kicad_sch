@@ -1015,7 +1015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-RT0603BRD0712KL/C326735"
+		(property "Datasheet" "~"
 			(at 146.05 106.68 0)
 			(effects
 				(font
@@ -1179,7 +1179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-TD03G4301BT_C666992.html"
+		(property "Datasheet" "~"
 			(at 134.62 128.27 0)
 			(effects
 				(font
@@ -1276,7 +1276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" "~"
 			(at 116.84 107.95 0)
 			(effects
 				(font

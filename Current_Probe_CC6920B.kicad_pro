@@ -527,11 +527,53 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Colour",
+          "name": "Colour",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC URL",
+          "name": "LCSC URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part #",
+          "name": "Manufacturer Part #",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -582,6 +624,10 @@
     [
       "3883a9c1-b4d4-446e-8a12-1b5b82cac23f",
       "Amplifier"
+    ],
+    [
+      "e109039a-8e54-4166-95b8-d86eda7cdc07",
+      "Current Sensor"
     ]
   ],
   "text_variables": {}

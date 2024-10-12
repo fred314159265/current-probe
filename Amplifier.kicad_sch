@@ -772,6 +772,25 @@
 		)
 		(uuid "79735a99-e6ec-4fc5-9f64-e8ae608dffac")
 	)
+	(text_box "40A range = 50mV/A\n2x gain = 100mV/A (in 10x probe mode good option for scope)\nRes ratio = 1:1\n\n20A range = 100mV/A\nAlready suitable for scope in 10x mode\n"
+		(exclude_from_sim no)
+		(at 20.32 44.45 0)
+		(size 52.07 16.51)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "c3650d2b-db4c-4411-912d-6ebcdfcc1895")
+	)
 	(text "264 mV/A"
 		(exclude_from_sim no)
 		(at 102.87 86.36 0)
